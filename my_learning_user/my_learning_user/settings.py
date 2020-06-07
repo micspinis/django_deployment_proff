@@ -28,7 +28,7 @@ SECRET_KEY = '^mm#&*v^0=m)60z(c&h&@5oi+npd$v)=d%=(_)q@0ml#oe^*n-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['micspinis.pythonanywhere.com']
 
 
 # Application definition
